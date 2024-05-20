@@ -8,6 +8,7 @@ from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
 from datetime import datetime
 import json
+from playsound import playsound
 
 CHROME_DRIVER_PATH = r'./chromedriver-win64/chromedriver.exe'
 
@@ -24,6 +25,7 @@ with open('./Credentials/credentials.json', 'r') as file:
 # Path to the saved page content
 CONTENT_FILE = 'Generatedcontent/page_content.html'
 
+ALERT_SOUND_PATH = 'alarm.mp3'
 # Configure WebDriver options
 chrome_options = Options()
 chrome_options.add_argument("--headless")  # Run headless for non-GUI mode
@@ -49,7 +51,7 @@ def login():
     driver.execute_script("arguments[0].scrollIntoView(true);", login_button_1)
     driver.execute_script("arguments[0].click();", login_button_1)
     print('Inputting password')
-    time.sleep(5)  # Wait for the password field to appear
+    time.sleep(5)
 
     # Enter password and click the second login button
     password_field = driver.find_element(By.XPATH, '//input[@type="password" and @placeholder="กรอกรหัสผ่าน"]')
@@ -60,13 +62,12 @@ def login():
     # Scroll to the element and click using JavaScript to avoid interception issues
     driver.execute_script("arguments[0].scrollIntoView(true);", login_button_2)
     driver.execute_script("arguments[0].click();", login_button_2)
-    print('Waiting for the profile page to load')
-    time.sleep(5)  # Wait for the profile page to load
+    time.sleep(5)
 
 def get_page_content(url):
     driver.get(url)
-    print('Waiting for profile page to load')
-    time.sleep(5)  # Wait for the page to load
+    print('Waiting for the profile page to load')
+    time.sleep(5)
     return driver.page_source
 
 def read_saved_content(file_path):
@@ -116,13 +117,18 @@ def monitor_changes():
     if cleaned_current_content != cleaned_previous_content:
         print(f"Page content has changed at {datetime.now()}.")
         print_differences(cleaned_previous_content, cleaned_current_content)
+        playsound(ALERT_SOUND_PATH)
     else:
         print(f"No change detected at {datetime.now()}.")
 
 if __name__ == "__main__":
+    count = 1
     try:
         while True:
+            print(f'Retries:{count}')
             monitor_changes()
+            print('#####################')
+            count += 1
             time.sleep(60)  # Wait for 60 seconds before checking again
     finally:
         driver.quit()

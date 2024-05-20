@@ -1,0 +1,1044 @@
+Retries:99
+Logging in
+Inputting password
+Waiting for the profile page to load
+No change detected at 2024-05-20 07:20:46.036616.
+#####################
+Retries:100
+Logging in
+Inputting password
+Waiting for the profile page to load
+No change detected at 2024-05-20 07:22:06.357196.
+#####################
+Retries:101
+Logging in
+Inputting password
+Waiting for the profile page to load
+No change detected at 2024-05-20 07:23:26.683317.
+#####################
+Retries:102
+Logging in
+Inputting password
+Waiting for the profile page to load
+No change detected at 2024-05-20 07:24:47.000223.
+#####################
+Retries:103
+Logging in
+Inputting password
+Waiting for the profile page to load
+No change detected at 2024-05-20 07:26:07.329470.
+#####################
+Retries:104
+Logging in
+Inputting password
+Waiting for the profile page to load
+No change detected at 2024-05-20 07:27:27.663673.
+#####################
+Retries:105
+Logging in
+Inputting password
+Waiting for the profile page to load
+No change detected at 2024-05-20 07:28:47.988153.
+#####################
+Retries:106
+Logging in
+Inputting password
+Waiting for the profile page to load
+No change detected at 2024-05-20 07:30:08.318173.
+#####################
+Retries:107
+Logging in
+Inputting password
+Waiting for the profile page to load
+No change detected at 2024-05-20 07:31:29.309412.
+#####################
+Retries:108
+Logging in
+Inputting password
+Waiting for the profile page to load
+No change detected at 2024-05-20 07:32:49.645270.
+#####################
+Retries:109
+Logging in
+Inputting password
+Waiting for the profile page to load
+No change detected at 2024-05-20 07:34:09.969407.
+#####################
+Retries:110
+Logging in
+Inputting password
+Waiting for the profile page to load
+No change detected at 2024-05-20 07:35:30.291086.
+#####################
+Retries:111
+Logging in
+Inputting password
+Waiting for the profile page to load
+No change detected at 2024-05-20 07:36:50.617076.
+#####################
+Retries:112
+Logging in
+Inputting password
+Waiting for the profile page to load
+No change detected at 2024-05-20 07:38:10.939882.
+#####################
+Retries:113
+Logging in
+Inputting password
+Waiting for the profile page to load
+No change detected at 2024-05-20 07:39:31.260912.
+#####################
+Retries:114
+Logging in
+Inputting password
+Waiting for the profile page to load
+No change detected at 2024-05-20 07:40:51.579178.
+#####################
+Retries:115
+Logging in
+Inputting password
+Waiting for the profile page to load
+No change detected at 2024-05-20 07:42:11.921995.
+#####################
+Retries:116
+Logging in
+Inputting password
+Waiting for the profile page to load
+No change detected at 2024-05-20 07:43:32.264536.
+#####################
+Retries:117
+Logging in
+Inputting password
+Waiting for the profile page to load
+No change detected at 2024-05-20 07:44:52.597215.
+#####################
+Retries:118
+Logging in
+Inputting password
+Waiting for the profile page to load
+No change detected at 2024-05-20 07:46:12.938340.
+#####################
+Retries:119
+Logging in
+Inputting password
+Waiting for the profile page to load
+No change detected at 2024-05-20 07:47:33.279299.
+#####################
+Retries:120
+Logging in
+Inputting password
+Waiting for the profile page to load
+No change detected at 2024-05-20 07:48:53.601838.
+#####################
+Retries:121
+Logging in
+Inputting password
+Waiting for the profile page to load
+No change detected at 2024-05-20 07:50:13.919757.
+#####################
+Retries:122
+Logging in
+Inputting password
+Waiting for the profile page to load
+No change detected at 2024-05-20 07:51:34.249952.
+#####################
+Retries:123
+Logging in
+Inputting password
+Waiting for the profile page to load
+No change detected at 2024-05-20 07:52:54.589439.
+#####################
+Retries:124
+Logging in
+Inputting password
+Waiting for the profile page to load
+No change detected at 2024-05-20 07:54:14.912123.
+#####################
+Retries:125
+Logging in
+Inputting password
+Waiting for the profile page to load
+No change detected at 2024-05-20 07:55:35.240291.
+#####################
+Retries:126
+Logging in
+Inputting password
+Waiting for the profile page to load
+No change detected at 2024-05-20 07:56:55.570717.
+#####################
+Retries:127
+Logging in
+Inputting password
+Waiting for the profile page to load
+No change detected at 2024-05-20 07:58:15.901872.
+#####################
+Retries:128
+Logging in
+Inputting password
+Waiting for the profile page to load
+No change detected at 2024-05-20 07:59:36.238012.
+#####################
+Retries:129
+Logging in
+Inputting password
+Waiting for the profile page to load
+Page content has changed at 2024-05-20 08:00:56.562755.
+--- previous_content
++++ current_content
+@@ -177,23 +177,6 @@
+         </div>
+        </div>
+       </div>
+-      <div class="t-box -exam">
+-       <h2 class="title">
+-        ข้อมูลการสมัครสอบ A-Level
+-       </h2>
+-       <div class="text-center">
+-        <p>
+-         ข้อมูลการสมัครสอบ A-Level
+-        </p>
+-        <div>
+-         <p>
+-          <a class="btn-main" href="/profile/exam-scores/alevel" style="width: 100%; max-width: 320px;">
+-           ประกาศผลสอบ A-Level
+-          </a>
+-         </p>
+-        </div>
+-       </div>
+-      </div>
+       <div class="r-all">
+        <h2>
+         รอบการสมัคร
+@@ -265,364 +248,12 @@
+          <h3>
+           Admission
+           <small>
+-           หมดเขตการสมัครแล้ว
++           รับสมัคร 6-12 พ.ค.67
+           </small>
+          </h3>
+          <i class="i-down">
+          </i>
+         </header>
+-        <div class="content">
+-         <div class="t-collapse active">
+-          <h3 class="r-3-bar t-toggle">
+-           <i class="i-apply">
+-           </i>
+-           สาขาวิชาที่สมัคร (7/10)
+-           <i class="i-toggle i-down-teal">
+-           </i>
+-          </h3>
+-          <div class="t-content">
+-           <h4>
+-            <b>
+-             การสมัครครั้งที่ 1 / ยืนยันครั้งที่ 1
+-            </b>
+-           </h4>
+-           <p>
+-            <b class="color-green">
+-             ชำระเงินเรียบร้อยแล้ว
+-            </b>
+-           </p>
+-           <ul class="r-choose -confirmed">
+-            <li class="">
+-             <label>
+-              <div class="order">
+-               อันดับที่ 1
+-              </div>
+-              <h4 class="score">
+-               คะแนน 63.0886/100
+-              </h4>
+-              <span class="u-logo" style='background-image: url("/assets/img/logo/001.png");'>
+-              </span>
+-              <strong>
+-               จุฬาลงกรณ์มหาวิทยาลัย
+-              </strong>
+-              วิทยาเขตหลัก
+-              <br/>
+-              คณะวิศวกรรมศาสตร์
+-              <br/>
+-              วิศวกรรมคอมพิวเตอร์
+-              <br/>
+-              หลักสูตรวิศวกรรมศาสตรบัณฑิต สาขาวิชาวิศวกรรมคอมพิวเตอร์
+-              <br/>
+-              (ภาษาไทย ปกติ)
+-             </label>
+-            </li>
+-            <li class="">
+-             <label>
+-              <div class="order">
+-               อันดับที่ 2
+-              </div>
+-              <h4 class="score">
+-               คะแนน 60.1053/100
+-              </h4>
+-              <span class="u-logo" style='background-image: url("/assets/img/logo/001.png");'>
+-              </span>
+-              <strong>
+-               จุฬาลงกรณ์มหาวิทยาลัย
+-              </strong>
+-              วิทยาเขตหลัก
+-              <br/>
+-              คณะวิศวกรรมศาสตร์
+-              <br/>
+-              วิศวกรรมทั่วไป
+-              <br/>
+-              หลักสูตรวิศวกรรมศาสตรบัณฑิต สาขาวิชาวิศวกรรมศาสตร์
+-              <br/>
+-              (ภาษาไทย ปกติ)
+-             </label>
+-            </li>
+-            <li class="">
+-             <label>
+-              <div class="order">
+-               อันดับที่ 3
+-              </div>
+-              <h4 class="score">
+-               คะแนน 61.7553/100
+-              </h4>
+-              <span class="u-logo" style='background-image: url("/assets/img/logo/001.png");'>
+-              </span>
+-              <strong>
+-               จุฬาลงกรณ์มหาวิทยาลัย
+-              </strong>
+-              วิทยาเขตหลัก
+-              <br/>
+-              คณะวิศวกรรมศาสตร์
+-              <br/>
+-              วิศวกรรมคอมพิวเตอร์
+-              <br/>
+-              หลักสูตรวิศวกรรมศาสตรบัณฑิต สาขาวิชาวิศวกรรมคอมพิวเตอร์และเทคโนโลยีดิจิทัล
+-              <br/>
+-              (ภาษาไทย ปกติ)
+-             </label>
+-            </li>
+-            <li class="">
+-             <label>
+-              <div class="order">
+-               อันดับที่ 4
+-              </div>
+-              <h4 class="score">
+-               คะแนน 68.3161/100
+-              </h4>
+-              <span class="u-logo" style='background-image: url("/assets/img/logo/016.png");'>
+-              </span>
+-              <strong>
+-               สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง
+-              </strong>
+-              ลาดกระบัง
+-              <br/>
+-              คณะวิศวกรรมศาสตร์
+-              <br/>
+-              วิศวกรรมคอมพิวเตอร์
+-              <br/>
+-              วศ.บ. วิศวกรรมคอมพิวเตอร์
+-              <br/>
+-              (ภาษาไทย ปกติ)
+-             </label>
+-            </li>
+-            <li class="">
+-             <label>
+-              <div class="order">
+-               อันดับที่ 5
+-              </div>
+-              <h4 class="score">
+-               คะแนน 62.7052/100
+-              </h4>
+-              <span class="u-logo" style='background-image: url("/assets/img/logo/002.png");'>
+-              </span>
+-              <strong>
+-               มหาวิทยาลัยเกษตรศาสตร์
+-              </strong>
+-              บางเขน
+-              <br/>
+-              คณะวิศวกรรมศาสตร์
+-              <br/>
+-              วิศวกรรมคอมพิวเตอร์
+-              <br/>
+-              วศ.บ. สาขาวิชาวิศวกรรมคอมพิวเตอร์
+-              <br/>
+-              (ภาษาไทย ปกติ)
+-              <br/>
+-              โครงการ Admission
+-             </label>
+-            </li>
+-            <li class="">
+-             <label>
+-              <div class="order">
+-               อันดับที่ 6
+-              </div>
+-              <h4 class="score">
+-               คะแนน 68.4280/100
+-              </h4>
+-              <span class="u-logo" style='background-image: url("/assets/img/logo/004.png");'>
+-              </span>
+-              <strong>
+-               มหาวิทยาลัยเชียงใหม่
+-              </strong>
+-              วิทยาเขตหลัก
+-              <br/>
+-              คณะวิศวกรรมศาสตร์
+-              <br/>
+-              วิศวกรรมคอมพิวเตอร์
+-              <br/>
+-              วศ.บ.วิศวกรรมคอมพิวเตอร์
+-              <br/>
+-              (ภาษาไทย ปกติ)
+-              <br/>
+-              โครงการ การรับตรงร่วมกัน (รหัส 00430608301010-วิศวกรรมคอมพิวเตอร์)
+-             </label>
+-            </li>
+-            <li class="">
+-             <label>
+-              <div class="order">
+-               อันดับที่ 7
+-              </div>
+-              <h4 class="score">
+-               คะแนน 68.3161/100
+-              </h4>
+-              <span class="u-logo" style='background-image: url("/assets/img/logo/016.png");'>
+-              </span>
+-              <strong>
+-               สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง
+-              </strong>
+-              ลาดกระบัง
+-              <br/>
+-              คณะวิศวกรรมศาสตร์
+-              <br/>
+-              วิศวกรรมไฟฟ้า
+-              <br/>
+-              วศ.บ. วิศวกรรมไฟฟ้า
+-              <br/>
+-              (ภาษาไทย ปกติ)
+-             </label>
+-            </li>
+-           </ul>
+-           <div class="t-summary">
+-            <dl>
+-             <dt>
+-              จำนวนอันดับสาขาวิชา (เลือกได้สูงสุด 10 อันดับ)
+-             </dt>
+-             <dd>
+-              <b>
+-               7
+-              </b>
+-              อันดับ
+-             </dd>
+-            </dl>
+-            <dl>
+-             <dt>
+-              <span class="color-green">
+-               ยอดค้างชำระทั้งหมด
+-              </span>
+-             </dt>
+-             <dd class="color-green">
+-              <b>
+-               0.00
+-              </b>
+-              บาท
+-             </dd>
+-            </dl>
+-           </div>
+-           <div class="t-note">
+-            ท่านทำการสมัครครั้งที่ 1 / ยืนยันครั้งที่ 1 และชำระเงินเรียบร้อยแล้ว หลังจากนี้ให้รอประกาศผล วันที่ 20 พ.ค. 67 และยืนยันสิทธิ์ วันที่ 20-21 พ.ค. 67
+-           </div>
+-           <p>
+-            <a class="btn-main -large cursor-pointer">
+-             พิมพ์ใบสรุปการสมัคร
+-            </a>
+-           </p>
+-          </div>
+-         </div>
+-         <div class="r-more">
+-          <div class="_space">
+-          </div>
+-          <h4 class="">
+-           ประวัติการดำเนินการ
+-           <i class="i-more">
+-           </i>
+-          </h4>
+-          <div class="_heading more">
+-           <div class="t-tabs">
+-            <ul class="t-tab-nav">
+-             <li class="t-nav-item active" data-tab="register">
+-              การสมัคร
+-             </li>
+-             <li class="t-nav-item" data-tab="payment">
+-              การชำระเงิน
+-             </li>
+-            </ul>
+-            <div class="t-tab-content active" id="register">
+-             <div class="card-log">
+-              <h4>
+-               <strong>
+-                การสมัครครั้งที่ 1 / ยืนยันครั้งที่ 1
+-               </strong>
+-              </h4>
+-              <ul>
+-               <li>
+-                จำนวนอันดับ : 7 อันดับ
+-               </li>
+-              </ul>
+-              <p>
+-               <strong>
+-                อันดับ 1-จุฬาลงกรณ์มหาวิทยาลัย วิทยาเขตหลัก
+-               </strong>
+-               <br/>
+-               คณะวิศวกรรมศาสตร์ สาขาวิศวกรรมคอมพิวเตอร์ หลักสูตรวิศวกรรมศาสตรบัณฑิต สาขาวิชาวิศวกรรมคอมพิวเตอร์ (ภาษาไทย ปกติ)
+-              </p>
+-              <p>
+-               <strong>
+-                อันดับ 2-จุฬาลงกรณ์มหาวิทยาลัย วิทยาเขตหลัก
+-               </strong>
+-               <br/>
+-               คณะวิศวกรรมศาสตร์ สาขาวิศวกรรมทั่วไป หลักสูตรวิศวกรรมศาสตรบัณฑิต สาขาวิชาวิศวกรรมศาสตร์ (ภาษาไทย ปกติ)
+-              </p>
+-              <p>
+-               <strong>
+-                อันดับ 3-จุฬาลงกรณ์มหาวิทยาลัย วิทยาเขตหลัก
+-               </strong>
+-               <br/>
+-               คณะวิศวกรรมศาสตร์ สาขาวิศวกรรมคอมพิวเตอร์ หลักสูตรวิศวกรรมศาสตรบัณฑิต สาขาวิชาวิศวกรรมคอมพิวเตอร์และเทคโนโลยีดิจิทัล (ภาษาไทย ปกติ)
+-              </p>
+-              <p>
+-               <strong>
+-                อันดับ 4-สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง ลาดกระบัง
+-               </strong>
+-               <br/>
+-               คณะวิศวกรรมศาสตร์ สาขาวิศวกรรมคอมพิวเตอร์ วศ.บ. วิศวกรรมคอมพิวเตอร์ (ภาษาไทย ปกติ)
+-              </p>
+-              <p>
+-               <strong>
+-                อันดับ 5-มหาวิทยาลัยเกษตรศาสตร์ บางเขน
+-               </strong>
+-               <br/>
+-               คณะวิศวกรรมศาสตร์ สาขาวิศวกรรมคอมพิวเตอร์ วศ.บ. สาขาวิชาวิศวกรรมคอมพิวเตอร์ (ภาษาไทย ปกติ) โครงการ Admission
+-              </p>
+-              <p>
+-               <strong>
+-                อันดับ 6-มหาวิทยาลัยเชียงใหม่ วิทยาเขตหลัก
+-               </strong>
+-               <br/>
+-               คณะวิศวกรรมศาสตร์ สาขาวิศวกรรมคอมพิวเตอร์ วศ.บ.วิศวกรรมคอมพิวเตอร์ (ภาษาไทย ปกติ) โครงการ การรับตรงร่วมกัน (รหัส 00430608301010-วิศวกรรมคอมพิวเตอร์)
+-              </p>
+-              <p>
+-               <strong>
+-                อันดับ 7-สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง ลาดกระบัง
+-               </strong>
+-               <br/>
+-               คณะวิศวกรรมศาสตร์ สาขาวิศวกรรมไฟฟ้า วศ.บ. วิศวกรรมไฟฟ้า (ภาษาไทย ปกติ)
+-              </p>
+-              <ul>
+-               <li class="color-blue">
+-                ยอดชำระ : 600.00 บาท
+-               </li>
+-              </ul>
+-              <div class="datetime">
+-               <small class="color-gray">
+-                06 พ.ค. 24 15:18:52 น.
+-               </small>
+-              </div>
+-             </div>
+-            </div>
+-            <div class="t-tab-content" id="payment">
+-             <div class="card-log">
+-              <h4>
+-               <strong>
+-                การสมัครครั้งที่ 1 / ยืนยันครั้งที่ 1
+-               </strong>
+-              </h4>
+-              <ul>
+-               <li class="color-blue">
+-                ยอดชำระ : 600.00 บาท
+-               </li>
+-               <li class="color-blue">
+-                สถานะ :
+-                <span class="color-green">
+-                 ชำระเงินเรียบร้อยแล้ว
+-                </span>
+-               </li>
+-              </ul>
+-              <div class="datetime">
+-               <small class="color-gray">
+-                06 พ.ค. 24 15:18:52 น.
+-               </small>
+-              </div>
+-             </div>
+-            </div>
+-           </div>
+-          </div>
+-          <div class="_space">
+-          </div>
+-         </div>
+-        </div>
+        </div>
+        <div class="r-4 active">
+         <header>
+[0520/080105.235:INFO:CONSOLE(0)] "Access to fetch at 'https://tcas65.as.r.appspot.com/applicants/me/admissions' from origin 'https://student.mytcas.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.", source: https://student.mytcas.com/profile (0)      
+[0520/080105.240:INFO:CONSOLE(1)] "[object Object]", source: https://student.mytcas.com/static/js/main.9401f894.chunk.js (1)
+#####################
+Retries:130
+Logging in
+Inputting password
+Waiting for the profile page to load
+No change detected at 2024-05-20 08:02:35.451012.
+#####################
+Retries:131
+Logging in
+Inputting password
+[0520/080350.695:INFO:CONSOLE(1)] "Error while trying to fetch enrollment offers: Failed to fetch", source: https://student.mytcas.com/static/js/main.9401f894.chunk.js (1)
+[0520/080350.697:INFO:CONSOLE(1)] "Error while trying to fetch enrollment offers: Failed to fetch", source: https://student.mytcas.com/static/js/main.9401f894.chunk.js (1)
+[0520/080350.699:INFO:CONSOLE(1)] "[object Object]", source: https://student.mytcas.com/static/js/main.9401f894.chunk.js (1)
+[0520/080350.702:INFO:CONSOLE(1)] "Error while trying to fetch applications: Failed to fetch", source: https://student.mytcas.com/static/js/main.9401f894.chunk.js (1)
+[0520/080350.703:INFO:CONSOLE(1)] "[object Object]", source: https://student.mytcas.com/static/js/main.9401f894.chunk.js (1)
+Waiting for the profile page to load
+Page content has changed at 2024-05-20 08:03:55.774393.
+--- previous_content
++++ current_content
+@@ -160,40 +160,6 @@
+         </tbody>
+        </table>
+       </div>
+-      <div class="t-box -exam">
+-       <h2 class="title">
+-        ข้อมูลการสมัครสอบ TGAT/TPAT2-5
+-       </h2>
+-       <div class="text-center">
+-        <p>
+-         ข้อมูลการสมัครสอบ TGAT/TPAT2-5
+-        </p>
+-        <div>
+-         <p>
+-          <a class="btn-main" href="/profile/exam-scores/tgattpat" style="width: 100%; max-width: 320px;">
+-           ประกาศผลสอบ TGAT/TPAT2-5
+-          </a>
+-         </p>
+-        </div>
+-       </div>
+-      </div>
+-      <div class="t-box -exam">
+-       <h2 class="title">
+-        ข้อมูลการสมัครสอบ A-Level
+-       </h2>
+-       <div class="text-center">
+-        <p>
+-         ข้อมูลการสมัครสอบ A-Level
+-        </p>
+-        <div>
+-         <p>
+-          <a class="btn-main" href="/profile/exam-scores/alevel" style="width: 100%; max-width: 320px;">
+-           ประกาศผลสอบ A-Level
+-          </a>
+-         </p>
+-        </div>
+-       </div>
+-      </div>
+       <div class="r-all">
+        <h2>
+         รอบการสมัคร
+@@ -226,7 +192,7 @@
+          </div>
+         </div>
+        </div>
+-       <div class="r-2 active">
++       <div class="r-2">
+         <header>
+          <b>
+           <small>
+@@ -244,14 +210,6 @@
+          </i>
+         </header>
+         <div class="content">
+-         <div>
+-          <h3>
+-           ท่านไม่ได้สมัครในรอบนี้
+-          </h3>
+-          <p>
+-           หากมีข้อสงสัยเกี่ยวกับผลการคัดเลือกให้ติดต่อกับสถาบันที่ท่านสมัคร
+-          </p>
+-         </div>
+         </div>
+        </div>
+        <div class="r-3 active">
+@@ -271,358 +229,6 @@
+          <i class="i-down">
+          </i>
+         </header>
+-        <div class="content">
+-         <div class="t-collapse active">
+-          <h3 class="r-3-bar t-toggle">
+-           <i class="i-apply">
+-           </i>
+-           สาขาวิชาที่สมัคร (7/10)
+-           <i class="i-toggle i-down-teal">
+-           </i>
+-          </h3>
+-          <div class="t-content">
+-           <h4>
+-            <b>
+-             การสมัครครั้งที่ 1 / ยืนยันครั้งที่ 1
+-            </b>
+-           </h4>
+-           <p>
+-            <b class="color-green">
+-             ชำระเงินเรียบร้อยแล้ว
+-            </b>
+-           </p>
+-           <ul class="r-choose -confirmed">
+-            <li class="">
+-             <label>
+-              <div class="order">
+-               อันดับที่ 1
+-              </div>
+-              <h4 class="score">
+-               คะแนน Censored/100
+-              </h4>
+-              <span class="u-logo" style='background-image: url("/assets/img/logo/001.png");'>
+-              </span>
+-              <strong>
+-               จุฬาลงกรณ์มหาวิทยาลัย
+-              </strong>
+-              วิทยาเขตหลัก
+-              <br/>
+-              คณะวิศวกรรมศาสตร์
+-              <br/>
+-              วิศวกรรมคอมพิวเตอร์
+-              <br/>
+-              หลักสูตรวิศวกรรมศาสตรบัณฑิต สาขาวิชาวิศวกรรมคอมพิวเตอร์
+-              <br/>
+-              (ภาษาไทย ปกติ)
+-             </label>
+-            </li>
+-            <li class="">
+-             <label>
+-              <div class="order">
+-               อันดับที่ 2
+-              </div>
+-              <h4 class="score">
+-               คะแนน Censored/100
+-              </h4>
+-              <span class="u-logo" style='background-image: url("/assets/img/logo/001.png");'>
+-              </span>
+-              <strong>
+-               จุฬาลงกรณ์มหาวิทยาลัย
+-              </strong>
+-              วิทยาเขตหลัก
+-              <br/>
+-              คณะวิศวกรรมศาสตร์
+-              <br/>
+-              วิศวกรรมทั่วไป
+-              <br/>
+-              หลักสูตรวิศวกรรมศาสตรบัณฑิต สาขาวิชาวิศวกรรมศาสตร์
+-              <br/>
+-              (ภาษาไทย ปกติ)
+-             </label>
+-            </li>
+-            <li class="">
+-             <label>
+-              <div class="order">
+-               อันดับที่ 3
+-              </div>
+-              <h4 class="score">
+-               คะแนน Censored/100
+-              </h4>
+-              <span class="u-logo" style='background-image: url("/assets/img/logo/001.png");'>
+-              </span>
+-              <strong>
+-               จุฬาลงกรณ์มหาวิทยาลัย
+-              </strong>
+-              วิทยาเขตหลัก
+-              <br/>
+-              คณะวิศวกรรมศาสตร์
+-              <br/>
+-              วิศวกรรมคอมพิวเตอร์
+-              <br/>
+-              หลักสูตรวิศวกรรมศาสตรบัณฑิต สาขาวิชาวิศวกรรมคอมพิวเตอร์และเทคโนโลยีดิจิทัล
+-              <br/>
+-              (ภาษาไทย ปกติ)
+-             </label>
+-            </li>
+-            <li class="">
+-             <label>
+-              <div class="order">
+-               อันดับที่ 4
+-              </div>
+-              <h4 class="score">
+-               คะแนน Censored/100
+-              </h4>
+-              <span class="u-logo" style='background-image: url("/assets/img/logo/016.png");'>
+-              </span>
+-              <strong>
+-               สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง
+-              </strong>
+-              ลาดกระบัง
+-              <br/>
+-              คณะวิศวกรรมศาสตร์
+-              <br/>
+-              วิศวกรรมคอมพิวเตอร์
+-              <br/>
+-              วศ.บ. วิศวกรรมคอมพิวเตอร์
+-              <br/>
+-              (ภาษาไทย ปกติ)
+-             </label>
+-            </li>
+-            <li class="">
+-             <label>
+-              <div class="order">
+-               อันดับที่ 5
+-              </div>
+-              <h4 class="score">
+-               คะแนน Censored/100
+-              </h4>
+-              <span class="u-logo" style='background-image: url("/assets/img/logo/002.png");'>
+-              </span>
+-              <strong>
+-               มหาวิทยาลัยเกษตรศาสตร์
+-              </strong>
+-              บางเขน
+-              <br/>
+-              คณะวิศวกรรมศาสตร์
+-              <br/>
+-              วิศวกรรมคอมพิวเตอร์
+-              <br/>
+-              วศ.บ. สาขาวิชาวิศวกรรมคอมพิวเตอร์
+-              <br/>
+-              (ภาษาไทย ปกติ)
+-              <br/>
+-              โครงการ Admission
+-             </label>
+-            </li>
+-            <li class="">
+-             <label>
+-              <div class="order">
+-               อันดับที่ 6
+-              </div>
+-              <h4 class="score">
+-               คะแนน Censored/100
+-              </h4>
+-              <span class="u-logo" style='background-image: url("/assets/img/logo/004.png");'>
+-              </span>
+-              <strong>
+-               มหาวิทยาลัยเชียงใหม่
+-              </strong>
+-              วิทยาเขตหลัก
+-              <br/>
+-              คณะวิศวกรรมศาสตร์
+-              <br/>
+-              วิศวกรรมคอมพิวเตอร์
+-              <br/>
+-              วศ.บ.วิศวกรรมคอมพิวเตอร์
+-              <br/>
+-              (ภาษาไทย ปกติ)
+-              <br/>
+-              โครงการ การรับตรงร่วมกัน (รหัส 00430608301010-วิศวกรรมคอมพิวเตอร์)
+-             </label>
+-            </li>
+-            <li class="">
+-             <label>
+-              <div class="order">
+-               อันดับที่ 7
+-              </div>
+-              <h4 class="score">
+-               คะแนน Censored/100
+-              </h4>
+-              <span class="u-logo" style='background-image: url("/assets/img/logo/016.png");'>
+-              </span>
+-              <strong>
+-               สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง
+-              </strong>
+-              ลาดกระบัง
+-              <br/>
+-              คณะวิศวกรรมศาสตร์
+-              <br/>
+-              วิศวกรรมไฟฟ้า
+-              <br/>
+-              วศ.บ. วิศวกรรมไฟฟ้า
+-              <br/>
+-              (ภาษาไทย ปกติ)
+-             </label>
+-            </li>
+-           </ul>
+-           <div class="t-summary">
+-            <dl>
+-             <dt>
+-              จำนวนอันดับสาขาวิชา (เลือกได้สูงสุด 10 อันดับ)
+-             </dt>
+-             <dd>
+-              <b>
+-               7
+-              </b>
+-              อันดับ
+-             </dd>
+-            </dl>
+-            <dl>
+-             <dt>
+-              <span class="color-green">
+-               ยอดค้างชำระทั้งหมด
+-              </span>
+-             </dt>
+-             <dd class="color-green">
+-              <b>
+-               0.00
+-              </b>
+-              บาท
+-             </dd>
+-            </dl>
+-           </div>
+-           <div class="t-note">
+-            ท่านทำการสมัครครั้งที่ 1 / ยืนยันครั้งที่ 1 และชำระเงินเรียบร้อยแล้ว หลังจากนี้ให้รอประกาศผล วันที่ 20 พ.ค. 67 และยืนยันสิทธิ์ วันที่ 20-21 พ.ค. 67
+-           </div>
+-           <p>
+-            <a class="btn-main -large cursor-pointer">
+-             พิมพ์ใบสรุปการสมัคร
+-            </a>
+-           </p>
+-          </div>
+-         </div>
+-         <div class="r-more">
+-          <div class="_space">
+-          </div>
+-          <h4 class="">
+-           ประวัติการดำเนินการ
+-           <i class="i-more">
+-           </i>
+-          </h4>
+-          <div class="_heading more">
+-           <div class="t-tabs">
+-            <ul class="t-tab-nav">
+-             <li class="t-nav-item active" data-tab="register">
+-              การสมัคร
+-             </li>
+-             <li class="t-nav-item" data-tab="payment">
+-              การชำระเงิน
+-             </li>
+-            </ul>
+-            <div class="t-tab-content active" id="register">
+-             <div class="card-log">
+-              <h4>
+-               <strong>
+-                การสมัครครั้งที่ 1 / ยืนยันครั้งที่ 1
+-               </strong>
+-              </h4>
+-              <ul>
+-               <li>
+-                จำนวนอันดับ : 7 อันดับ
+-               </li>
+-              </ul>
+-              <p>
+-               <strong>
+-                อันดับ 1-จุฬาลงกรณ์มหาวิทยาลัย วิทยาเขตหลัก
+-               </strong>
+-               <br/>
+-               คณะวิศวกรรมศาสตร์ สาขาวิศวกรรมคอมพิวเตอร์ หลักสูตรวิศวกรรมศาสตรบัณฑิต สาขาวิชาวิศวกรรมคอมพิวเตอร์ (ภาษาไทย ปกติ)
+-              </p>
+-              <p>
+-               <strong>
+-                อันดับ 2-จุฬาลงกรณ์มหาวิทยาลัย วิทยาเขตหลัก
+-               </strong>
+-               <br/>
+-               คณะวิศวกรรมศาสตร์ สาขาวิศวกรรมทั่วไป หลักสูตรวิศวกรรมศาสตรบัณฑิต สาขาวิชาวิศวกรรมศาสตร์ (ภาษาไทย ปกติ)
+-              </p>
+-              <p>
+-               <strong>
+-                อันดับ 3-จุฬาลงกรณ์มหาวิทยาลัย วิทยาเขตหลัก
+-               </strong>
+-               <br/>
+-               คณะวิศวกรรมศาสตร์ สาขาวิศวกรรมคอมพิวเตอร์ หลักสูตรวิศวกรรมศาสตรบัณฑิต สาขาวิชาวิศวกรรมคอมพิวเตอร์และเทคโนโลยีดิจิทัล (ภาษาไทย ปกติ)
+-              </p>
+-              <p>
+-               <strong>
+-                อันดับ 4-สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง ลาดกระบัง
+-               </strong>
+-               <br/>
+-               คณะวิศวกรรมศาสตร์ สาขาวิศวกรรมคอมพิวเตอร์ วศ.บ. วิศวกรรมคอมพิวเตอร์ (ภาษาไทย ปกติ)
+-              </p>
+-              <p>
+-               <strong>
+-                อันดับ 5-มหาวิทยาลัยเกษตรศาสตร์ บางเขน
+-               </strong>
+-               <br/>
+-               คณะวิศวกรรมศาสตร์ สาขาวิศวกรรมคอมพิวเตอร์ วศ.บ. สาขาวิชาวิศวกรรมคอมพิวเตอร์ (ภาษาไทย ปกติ) โครงการ Admission
+-              </p>
+-              <p>
+-               <strong>
+-                อันดับ 6-มหาวิทยาลัยเชียงใหม่ วิทยาเขตหลัก
+-               </strong>
+-               <br/>
+-               คณะวิศวกรรมศาสตร์ สาขาวิศวกรรมคอมพิวเตอร์ วศ.บ.วิศวกรรมคอมพิวเตอร์ (ภาษาไทย ปกติ) โครงการ การรับตรงร่วมกัน (รหัส 00430608301010-วิศวกรรมคอมพิวเตอร์)
+-              </p>
+-              <p>
+-               <strong>
+-                อันดับ 7-สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง ลาดกระบัง
+-               </strong>
+-               <br/>
+-               คณะวิศวกรรมศาสตร์ สาขาวิศวกรรมไฟฟ้า วศ.บ. วิศวกรรมไฟฟ้า (ภาษาไทย ปกติ)
+-              </p>
+-              <ul>
+-               <li class="color-blue">
+-                ยอดชำระ : 600.00 บาท
+-               </li>
+-              </ul>
+-              <div class="datetime">
+-               <small class="color-gray">
+-                06 พ.ค. 24 15:18:52 น.
+-               </small>
+-              </div>
+-             </div>
+-            </div>
+-            <div class="t-tab-content" id="payment">
+-             <div class="card-log">
+-              <h4>
+-               <strong>
+-                การสมัครครั้งที่ 1 / ยืนยันครั้งที่ 1
+-               </strong>
+-              </h4>
+-              <ul>
+-               <li class="color-blue">
+-                ยอดชำระ : 600.00 บาท
+-               </li>
+-               <li class="color-blue">
+-                สถานะ :
+-                <span class="color-green">
+-                 ชำระเงินเรียบร้อยแล้ว
+-                </span>
+-               </li>
+-              </ul>
+-              <div class="datetime">
+-               <small class="color-gray">
+-                06 พ.ค. 24 15:18:52 น.
+-               </small>
+-              </div>
+-             </div>
+-            </div>
+-           </div>
+-          </div>
+-          <div class="_space">
+-          </div>
+-         </div>
+-        </div>
+        </div>
+        <div class="r-4 active">
+         <header>
+
+    Error 259 for command:
+        play alarm.mp3 wait
+    The driver cannot recognize the specified command parameter.
+
+    Error 263 for command:
+        close alarm.mp3
+    The specified device is not open or is not recognized by MCI.
+Failed to close the file: alarm.mp3
+Traceback (most recent call last):
+  File "c:\Users\User\Documents\GitHub\Tcas-Notify\detectchanges.py", line 129, in <module>
+    monitor_changes()
+  File "c:\Users\User\Documents\GitHub\Tcas-Notify\detectchanges.py", line 120, in monitor_changes
+    playsound(ALERT_SOUND_PATH)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\playsound.py", line 73, in _playsoundWin
+    winCommand(u'play {}{}'.format(sound, ' wait' if block else ''))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\playsound.py", line 64, in winCommand
+    raise PlaysoundException(exceptionMessage)
+playsound.PlaysoundException:
+    Error 259 for command:
+        play alarm.mp3 wait
+    The driver cannot recognize the specified command parameter.

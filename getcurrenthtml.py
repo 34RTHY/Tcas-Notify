@@ -28,6 +28,7 @@ service = Service(CHROME_DRIVER_PATH)
 driver = webdriver.Chrome(service=service, options=chrome_options)
 
 def login():
+    print('logging in')
     driver.get(LOGIN_URL)
     time.sleep(5)
 
@@ -40,13 +41,11 @@ def login():
     # Scroll to the element and click using JavaScript to avoid interception issues
     driver.execute_script("arguments[0].scrollIntoView(true);", login_button_1)
     driver.execute_script("arguments[0].click();", login_button_1)
-
     time.sleep(5)
 
     #Enter password and click the second login button
     password_field = driver.find_element(By.XPATH, '//input[@type="password" and @placeholder="กรอกรหัสผ่าน"]')
     login_button_2 = driver.find_element(By.XPATH, '//a[@class="btn-main cursor-pointer"]')
-
     password_field.send_keys(PASSWORD)
 
     # Scroll to the element and click using JavaScript to avoid interception issues
