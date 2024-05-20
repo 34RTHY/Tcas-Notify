@@ -30,7 +30,7 @@ TCAS Notify is a Python application designed to notify you when your TCAS result
     ```
 
 3. **Download ChromeDriver**:
-    - Download the ChromeDriver from [here](https://sites.google.com/a/chromium.org/chromedriver/downloads) and place it in the `chromedriver-win64` directory.
+    - Download the ChromeDriver from and place it in the `chromedriver-win64` directory or use the preexisted one in the directory.
 
 4. **Setup Credentials**:
     - Create a `credentials.json` file in the `Credentials` directory with the following structure:
