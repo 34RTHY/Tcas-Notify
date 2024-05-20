@@ -247,7 +247,7 @@ Page content has changed at 2024-05-20 08:00:56.562755.
 -               อันดับที่ 1
 -              </div>
 -              <h4 class="score">
--               คะแนน 63.0886/100
+-               คะแนน Censored/100
 -              </h4>
 -              <span class="u-logo" style='background-image: url("/assets/img/logo/001.png");'>
 -              </span>
@@ -271,7 +271,7 @@ Page content has changed at 2024-05-20 08:00:56.562755.
 -               อันดับที่ 2
 -              </div>
 -              <h4 class="score">
--               คะแนน 60.1053/100
+-               คะแนน Censored/100
 -              </h4>
 -              <span class="u-logo" style='background-image: url("/assets/img/logo/001.png");'>
 -              </span>
@@ -295,7 +295,7 @@ Page content has changed at 2024-05-20 08:00:56.562755.
 -               อันดับที่ 3
 -              </div>
 -              <h4 class="score">
--               คะแนน 61.7553/100
+-               คะแนน Censored/100
 -              </h4>
 -              <span class="u-logo" style='background-image: url("/assets/img/logo/001.png");'>
 -              </span>
@@ -319,7 +319,7 @@ Page content has changed at 2024-05-20 08:00:56.562755.
 -               อันดับที่ 4
 -              </div>
 -              <h4 class="score">
--               คะแนน 68.3161/100
+-               คะแนน Censored/100
 -              </h4>
 -              <span class="u-logo" style='background-image: url("/assets/img/logo/016.png");'>
 -              </span>
@@ -343,7 +343,7 @@ Page content has changed at 2024-05-20 08:00:56.562755.
 -               อันดับที่ 5
 -              </div>
 -              <h4 class="score">
--               คะแนน 62.7052/100
+-               คะแนน Censored/100
 -              </h4>
 -              <span class="u-logo" style='background-image: url("/assets/img/logo/002.png");'>
 -              </span>
@@ -369,7 +369,7 @@ Page content has changed at 2024-05-20 08:00:56.562755.
 -               อันดับที่ 6
 -              </div>
 -              <h4 class="score">
--               คะแนน 68.4280/100
+-               คะแนน Censored/100
 -              </h4>
 -              <span class="u-logo" style='background-image: url("/assets/img/logo/004.png");'>
 -              </span>
@@ -395,7 +395,7 @@ Page content has changed at 2024-05-20 08:00:56.562755.
 -               อันดับที่ 7
 -              </div>
 -              <h4 class="score">
--               คะแนน 68.3161/100
+-               คะแนน Censored/100
 -              </h4>
 -              <span class="u-logo" style='background-image: url("/assets/img/logo/016.png");'>
 -              </span>
